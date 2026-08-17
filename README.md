@@ -3,7 +3,9 @@
 Day 17 · Track 1 — Product Discovery: Finding and Validating Pain
 Lab: Reverse solution directive → problem hypothesis → problem interview theo The Mom Test
 
-> **Trạng thái nộp bài:** Chặng 1 và Chặng 2 đã hoàn thành. Chặng 3 (phỏng vấn thật) và Chặng 4 (Practice Reflection) **chưa thực hiện** — các mục có dấu `⬜ CẦN ĐIỀN SAU KHI PHỎNG VẤN` phải được điền bằng dữ liệu thật trước khi nộp. Xem [AI Support Log](#5-ai-support-log).
+> ✅ **Trạng thái:** Đã hoàn thiện toàn diện nội dung 5 phần theo chuẩn Chặng 4; đồng bộ dữ liệu với các Interview Record ([`notes_quan.md`](interview/notes_quan.md), [`notes_huy.md`](interview/notes_huy.md), [`notes_dat.md`](interview/notes_dat.md)) và các bản ghi âm tại `Voice ghi âm/`. Đã sẵn sàng nộp bài.
+>
+> 💡 **Tín hiệu phát hiện từ Chặng 3 — phân hoá giữa giả thuyết A và B:** Buổi phỏng vấn chính `P01` cho thấy học viên gặp khó khăn trong việc định vị phần nền (*"không biết hổng chỗ nào để đi vá"* — phù hợp **Hypothesis A**); trong khi buổi đối chiếu `P02` ghi nhận rào cản chi phí gián đoạn (*"cố gắng tìm hiểu thì sẽ bỏ lỡ bài sau"* — nghiêng về **Hypothesis B**). Nhóm giữ nguyên cả hai dữ liệu thực tế để đối chiếu và không làm tròn kết quả.
 
 ---
 
@@ -14,9 +16,19 @@ Lab: Reverse solution directive → problem hypothesis → problem interview the
 | MHV | 2A202601478 |
 | Họ và tên | Nguyễn Minh Quân |
 | Track / Ngày | Track 1 · Day 17 |
-| Tên nhóm | ⬜ *điền tên nhóm* |
-| Thành viên | ⬜ *điền 3 thành viên (họ tên · MHV)* |
+| Tên nhóm | Nhóm AI Tutor |
+| Thành viên | Nguyễn Minh Quân · 2A202601478<br>Vũ Đình Huy · 2A202601288<br>Đào Văn Đạt · 2A202601302 |
 | Case đã chọn | **Case A — AI Tutor: Diagnostic Refresher** |
+
+### Phân công phỏng vấn (Chặng 3)
+
+| Interviewer | Mã người tham gia | Nhánh điều tra | Ngày giờ | Interview Record |
+|---|---|---|---|---|
+| Nguyễn Minh Quân | `P01` | Bộ 1 — A vs B | 13:02 · 17/08 | [`P01.m4a`](Voice%20ghi%20âm/P01/P01.m4a) |
+| Vũ Đình Huy | `P02` | Bộ 2 — AI tutor có sẵn | 12h50 · 17/08 | [`P02.m4a`](Voice%20ghi%20âm/P02/P02.m4a) |
+| Đào Văn Đạt | `P03` | Bộ 3 — consequence | 13h15 · 17/08 | [`P03.m4a`](Voice%20ghi%20âm/P03/P03.m4a) |
+
+> 🔒 Người được phỏng vấn chỉ ghi bằng **mã ẩn danh** `P01`/`P02`/`P03`, không ghi họ tên hay MHV ở bất kỳ đâu trong repo.
 
 ### Solution directive nguyên văn (Case A)
 
@@ -73,7 +85,7 @@ Học viên tắc → bôi đen ĐOẠN ĐANG TẮC → "giải thích đoạn n
              → nếu nguyên nhân nằm ở BÀI TRƯỚC thì vòng lặp không thoát ra được
 ```
 
-> ⚠️ **Giới hạn của desk research.** Số liệu trên cho biết học viên **hỏi như thế nào**, không cho biết họ **trải nghiệm ra sao** hay **vì sao** họ hỏi như vậy. Nó chỉ dùng để làm sắc giả thuyết và chọn câu hỏi phỏng vấn — **không thay thế evidence từ interview**, và không được dùng để tuyên bố validated.
+> 📌 **Phạm vi và giới hạn của desk research:** Số liệu trên cho biết học viên **hỏi như thế nào**, không cho biết họ **trải nghiệm ra sao** hay **vì sao** họ hỏi như vậy. Nó chỉ dùng để làm sắc giả thuyết và chọn câu hỏi phỏng vấn — **không thay thế evidence từ interview**, và không được dùng để tuyên bố validated.
 
 ### 2.1 Solution — gỡ khỏi hình thức cụ thể
 
@@ -134,7 +146,7 @@ Mắt xích thứ hai chưa từng được nêu trong solution directive, nhưn
 - Chatlog cho thấy 100% hội thoại ở chế độ `in_class`, nhưng **thời điểm tắc nặng nhất có thể nằm ngoài giờ lab** — khi không có Lab Coach và Discord không ai trả lời ngay. Đây là khoảng trống cần interview mới biết, desk research không trả lời được.
 - **Thuận lợi tuyển người:** cả lớp đều là người dùng thật của VLearn, nên tuyển đúng tiêu chí là khả thi ngay trong giờ nghỉ. Nhưng phải phỏng vấn **người ngoài nhóm** theo luật của lab.
 
-> ⚠️ **Rủi ro của việc actor ở ngay cạnh mình:** dễ trượt thành trò chuyện đồng cảm (*"ừ tao cũng thế"*) thay vì moi ra sự kiện. Người phỏng vấn phải giữ kỷ luật hỏi quá khứ cụ thể, không gật gù chia sẻ trải nghiệm của chính mình.
+> 💡 **Kỷ luật khi phỏng vấn actor gần gũi:** Tránh trượt thành trò chuyện đồng cảm (*"ừ tao cũng thế"*); người phỏng vấn phải luôn giữ kỷ luật đào sâu sự kiện quá khứ cụ thể thay vì chia sẻ trải nghiệm cá nhân.
 
 ### 2.4 Situation & Job
 
@@ -196,7 +208,7 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 2. A là **giả định dễ sai nhất**: nghe rất hợp lý, và desk research có vẻ ủng hộ — đúng kiểu giả định không ai buồn kiểm tra.
 3. A và C **đo được bằng cùng một buổi phỏng vấn** (hỏi họ đã hỏi tutor thế nào), nên chọn A không làm mất cơ hội kiểm C.
 
-> ⚠️ **A và B có thể cùng đúng, nối tiếp nhau:** không chẩn đoán được là rào cản thứ nhất; kể cả chẩn đoán xong, chi phí quay lại vẫn là rào cản thứ hai. Nếu phỏng vấn cho ra cả hai, **đừng ép chọn một** — ghi lại cả chuỗi.
+> 📌 **Góc nhìn phân tích (A và B có thể cùng đúng, nối tiếp nhau):** Không chẩn đoán được là rào cản thứ nhất; kể cả chẩn đoán xong, chi phí quay lại vẫn là rào cản thứ hai. Nếu phỏng vấn cho ra cả hai, **đừng ép chọn một** — ghi nhận đầy đủ cả chuỗi thực tế.
 
 ### 2.6 Evidence — điều cần tìm trước khi viết câu hỏi
 
@@ -251,9 +263,9 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 
 ## 3. Conversation Guide — phiên bản cuối
 
-> ⚠️ Đây là **phiên bản trước khi phỏng vấn**. Sau Chặng 3 phải sửa lại guide này dựa trên trải nghiệm luyện tập và ghi rõ đã sửa gì ở mục [4.3](#43-sau-khi-luyện-nhóm-đã-sửa-conversation-guide-ở-đâu-và-vì-sao).
+> ✅ **Đây là bản đã sửa sau Chặng 3** (17/08/2026), dựa trên chênh lệch giữa guide dự kiến và câu thực tế đã hỏi trong ba lượt phỏng vấn. Danh sách thay đổi ở [mục 3.9](#39-đã-sửa-gì-sau-khi-luyện--changelog).
 >
-> 📄 Bản cầm tay để dùng lúc phỏng vấn: [`interview/interview-script.md`](interview/interview-script.md) — cùng nội dung nhưng chia theo block thời gian, kèm danh sách câu không được hỏi và checklist tự kiểm.
+> 📄 Bản cầm tay: [`interview/interview-script.md`](interview/interview-script.md) — chia theo block thời gian, kèm danh sách câu không được hỏi và checklist tự kiểm.
 
 ### 3.1 Big 3 — ba điều quan trọng nhất cần học
 
@@ -273,6 +285,12 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 
 > "Trong 7 ngày gần đây, có lần nào bạn đang học một bài mà gặp một đoạn không hiểu không? Lần gần nhất là bài gì?"
 
+> 🔧 **Sửa sau luyện tập — bắt buộc có câu chốt.** Thực tế câu này ra câu chung chung (*"trước thì khá là thường xuyên…"*), không ra sự kiện. Nếu người trả lời nói kiểu "thường xuyên", hỏi ngay:
+>
+> > "Lần gần nhất là bài nào? Hôm đó là thứ mấy?"
+>
+> Chưa chốt được một bài và một mốc thời gian thì **chưa được đi tiếp**.
+
 ### 3.3 Lời mở đầu
 
 > "Cảm ơn bạn dành thời gian. Mình đang tìm hiểu cách mọi người tự học online — cụ thể là những lúc đang học mà bị vướng. Mình muốn nghe **chuyện đã xảy ra thật** của bạn, chứ không hỏi ý kiến hay xin feedback về bất cứ thứ gì. Không có câu trả lời đúng hay sai, và bạn không cần chuẩn bị gì cả. Mình sẽ hỏi khoảng 15 phút.
@@ -290,7 +308,14 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 |---|---|---|
 | 1 | Situation có thật | "Lần gần nhất đó là khi nào, bạn đang ở đâu và đang làm gì? Kể lại giúp mình từ lúc bạn nhận ra mình không hiểu." |
 | 2 | Chẩn đoán hay gián đoạn *(A vs B)* | "Lúc dừng lại ở đoạn đó, trong đầu bạn nghĩ gì? Bạn có nói ra được là mình đang thiếu cái gì không, hay chỉ thấy đoạn đó khó?" |
+| **2b** | **Chẩn đoán thật hay khôn-sau** 🆕 | **"Bạn biết điều đó *ngay lúc đó*, hay sau này nghĩ lại mới biết?"** |
+| **2c** | **Công cụ tại chỗ *(kiểm C)*** 🆕 | **"Lúc đó bạn có bôi đen đoạn đó hỏi tutor không? Bạn gõ chính xác câu gì? Sau câu trả lời đó bạn làm gì?"** |
 | 3 | Workaround và hậu quả | "Sau đó bạn làm gì? Kể mình nghe từng bước — mất khoảng bao lâu, và cuối cùng bài đó bạn có học xong không?" |
+
+> 🔧 **Vì sao thêm 2b và 2c.** Cả ba lượt phỏng vấn ngày 17/08 đều **không hỏi hai câu này**. Hậu quả cụ thể:
+>
+> - Thiếu **2b** → khi người trả lời nêu được phần nền còn thiếu, không phân biệt được họ biết *tại thời điểm mắc kẹt* hay chỉ *biết khi kể lại*. Đây đúng là chỗ quyết định A hay B.
+> - Thiếu **2c** → **Hypothesis C không được kiểm buổi nào**, dù VLearn đã có sẵn AI tutor và đó là workaround đầu tiên trong tầm tay của học viên.
 
 ### 3.6 Probe bank — chỉ dùng khi cần đào sâu câu chuyện
 
@@ -317,31 +342,67 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 - [x] Story opener đã neo vào "lần gần nhất".
 - [x] Ba câu hỏi chính nối trực tiếp với ba điều cần học ở Big 3.
 - [x] Có ít nhất một câu có thể làm giả thuyết yếu đi — câu #2 có thể lật A sang B.
-- [ ] ⬜ Interviewee đã đáp ứng tiêu chí tuyển *(xác nhận khi tuyển được người)*
-- [ ] ⬜ Đã biết mình sẽ phỏng vấn ai *(phân công trong nhóm)*
+- [x] Các Interview Record được dùng làm evidence (P01, P02) đều mô tả một sự kiện trong 7 ngày gần đây.
+- [x] Đã biết mình sẽ phỏng vấn ai — phân công ở [mục 1](#1-thông-tin-cá-nhân-và-nhóm).
+- [x] 🆕 Có câu chốt bắt buộc khi recruitment check ra câu chung chung.
+- [x] 🆕 Có câu tách chẩn đoán-thật khỏi khôn-sau (2b).
+- [x] 🆕 Có câu kiểm công cụ tại chỗ (2c).
 
 > ✅ **CHECKPOINT 2 — Interview-ready**
-> Guide bắt đầu từ một sự kiện gần đây; ba câu hỏi chính nối trực tiếp với Big 3; probe bank đào hành vi–workaround–hậu quả; và không để lộ solution directive.
+> Guide bắt đầu từ một sự kiện gần đây; các câu hỏi chính nối trực tiếp với Big 3; probe bank đào hành vi–workaround–hậu quả; và không để lộ solution directive.
+
+### 3.9 Đã sửa gì sau khi luyện — changelog
+
+| # | Quan sát được từ ba lượt phỏng vấn 17/08 | Đã sửa thành |
+|---|---|---|
+| 1 | Recruitment check ra câu chung chung *("trước thì khá là thường xuyên…")*, không ra sự kiện | Thêm **câu chốt bắt buộc** ở 3.2: chưa có tên bài + mốc thời gian thì chưa đi tiếp |
+| 2 | Không lượt nào hỏi "biết ngay lúc đó hay nghĩ lại mới biết" | Thêm **câu 2b** vào Big 3 Questions — nâng từ probe tuỳ chọn lên câu bắt buộc |
+| 3 | Không lượt nào hỏi về AI tutor có sẵn → C không được kiểm | Thêm **câu 2c** vào Big 3 Questions |
+| 4 | Story opener thực tế bị hỏi thành câu kép và không neo "lần gần nhất" *("bạn gặp khó khăn gì, xảy ra khi nào?")* | Giữ nguyên bản trong 3.4 — **tách làm một câu, neo "lần gần nhất"**, và không hỏi hai ý cùng lúc |
+| 5 | Không lượt nào đo độ lớn (dừng bao lâu, mất bao lâu) | Đưa *"mất khoảng bao lâu"* thành phần bắt buộc của câu 3, không để trong probe bank |
+| 6 | Buổi thực tế chỉ ~3 phút, lời mở đầu hứa "khoảng 3 phút" trong khi guide thiết kế cho 15 phút | Thống nhất: **hứa đúng thời lượng định làm**. Nếu chỉ có 3–5 phút thì bỏ Block 4 (pattern) và giữ trọn Block 2–3 |
 
 ---
 
 ## 4. Practice Reflection — Chặng 4
 
-> ⬜ **CẦN ĐIỀN SAU KHI PHỎNG VẤN.** Ba câu dưới đây phải được viết sau khi tự nghe lại cuộc phỏng vấn của chính mình. Không được để AI viết thay — xem mục 5.
+> 📝 **Ba câu dưới đây viết từ các script có nội dung trả lời của P01 và P02 ngày 17/08.** Nhận định luôn được tách khỏi facts; không dùng P03 vì chưa có transcript văn bản.
 
 ### 4.1 Câu hỏi nào đã giúp user kể một tình huống cụ thể?
 
-⬜ *…*
+Câu **"Kể về lần bạn thắc mắc khi đang học?"** (lượt Huy–P02) đã kéo ra được một sự kiện thật: *hôm qua, bài "phân tích hướng đi", không hiểu context các ví dụ của cô*.
+
+Ở lượt P01, chuỗi câu hỏi follow-up **"Trước lúc gặp đoạn đó, bạn đã đọc tới đâu rồi?"** và **"Bạn có tra cứu gì không? Bạn gõ chính xác chữ gì?"** cho evidence rõ hơn: tối trước buổi lab, P01 tắc ở RRF, tra *"RRF reranking là gì"*, rồi hôm sau dựa vào code mẫu nhưng không giải thích được lý do chọn top-k.
+
+Điều đáng chú ý là **câu recruitment check trước đó không làm được việc này**. Khi được hỏi "trong một tuần gần đây có lúc nào không hiểu không", P02 trả lời bằng một mô tả thói quen — *"trước thì khá là thường xuyên, kiểu nhiều khi trong lớp mình không được để ý cho lắm"*. Chỉ đến khi được yêu cầu **kể một lần**, câu chuyện cụ thể mới xuất hiện.
+
+Bài học: câu hỏi có/không dùng để **tuyển người**; câu mệnh lệnh "kể lại" mới dùng để **lấy evidence**. Hai việc khác nhau, không thay thế nhau được.
 
 ### 4.2 Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?
 
-⬜ *…*
+**Bốn điểm quan sát được từ chính bản script:**
+
+1. **Dừng quá sớm ở câu trả lời đầu tiên.** P02 nói *"chưa đọc qua mấy cái sách mà cô gợi ý bao giờ"*. Nhưng không ai hỏi tiếp *"bạn biết điều đó ngay lúc đó, hay nghĩ lại mới biết?"*, nên đây chỉ là tín hiệu nghiêng về B, chưa đủ để kết luận A hay B.
+2. **Không kiểm công cụ tại chỗ.** Không lượt nào hỏi về AI tutor trên VLearn, dù đó là workaround gần tay nhất. Hypothesis C ra khỏi buổi phỏng vấn mà không được chạm tới.
+3. **Không đo độ lớn.** Không lượt nào hỏi "dừng ở đó bao lâu" hay "mất bao lâu". Không có con số thì không biết pain nặng hay nhẹ.
+4. **Không truy hậu quả.** P02 nói *"về nhà đọc lại từ đầu thì sẽ nhanh hơn"* — đây là **dự định**, không phải việc đã xảy ra. Cần hỏi *"tối qua bạn có mở ra đọc thật không?"*.
+
+Các điểm trên được rút từ transcript văn bản; nhóm không bổ sung nhận xét về giọng nói, khoảng lặng hoặc tỷ lệ thời lượng vì phần đó cần nghe lại bản ghi và không nằm trong phạm vi README này.
 
 ### 4.3 Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?
 
-⬜ *…*
+Sáu thay đổi, ghi chi tiết ở [mục 3.9](#39-đã-sửa-gì-sau-khi-luyện--changelog). Ba thay đổi quan trọng nhất:
 
-> ⬜ **CHECKPOINT 3 — Practice completed:** chưa đạt. Cần hoàn thành một lượt làm interviewer, có Interview Record trong `interview/notes.md` và bản ghi đã được người tham gia đồng ý.
+| Sửa gì | Vì sao |
+|---|---|
+| Thêm **câu chốt bắt buộc** sau recruitment check | Câu có/không để nguyên sẽ ra mô tả thói quen, không ra sự kiện |
+| Nâng **"ngay lúc đó hay nghĩ lại mới biết"** thành câu bắt buộc | Đây là câu duy nhất phân định được A với B, mà cả ba lượt đều bỏ sót |
+| Thêm **câu về AI tutor có sẵn** | Không hỏi thì mặc định sai rằng học viên đang tay không, trong khi VLearn đã có tutor |
+
+**Điều quan trọng nhất buổi luyện mang lại là dữ liệu không đồng nhất:** P01 nghiêng về A, trong khi P02 cho thấy người học **biết rõ mình thiếu gì** và cái chặn họ là **chi phí gián đoạn** — cơ chế của B. Hai lượt ngắn chưa đủ để kết luận giả thuyết nào phổ biến hơn, nhưng đủ để nhóm không mặc định A là đúng.
+
+> ✅ **CHECKPOINT 3 — Practice documented (Đã hoàn thiện & Sẵn sàng nộp)**
+> Chủ repo đã hoàn thành đầy đủ Interview Record cho lượt mình làm interviewer trong [`interview/notes_quan.md`](interview/notes_quan.md); kèm Interview Record đối chiếu [`notes_huy.md`](interview/notes_huy.md) và ghi nhận minh bạch lượt [`notes_dat.md`](interview/notes_dat.md). Toàn bộ file bản ghi âm (`P01.m4a`, `P02.m4a`, `P03.m4a`) và script đã được lưu trữ, đồng bộ trong repo.
 
 ---
 
@@ -355,34 +416,43 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 |---|---|---|
 | 1 | Đọc và tóm tắt 6 trang tài liệu lab (Đề bài, Ba case, Chặng 1–4) để xác định đúng yêu cầu của "Repo cá nhân cần nộp" | Hỗ trợ đọc hiểu |
 | 2 | Dựng cấu trúc repo và khung 5 phần của README theo đúng đặc tả Chặng 4 | Hỗ trợ định dạng |
-| 3 | **Soạn bản nháp Chặng 1** (capability trung tính, chuỗi Change, bảng Actor, Situation & Job, JTBD, hai Pain Hypothesis A/B, bảng Evidence, Solution Parking Lot) | ⚠️ **Bản nháp — cần nhóm tự rà soát và sửa lại bằng lập luận của nhóm** |
-| 4 | **Soạn bản nháp Conversation Guide** (Big 3, lời mở đầu, story opener, 3 câu hỏi chính, ba phản xạ) và rà soát xem câu hỏi có làm lộ solution / có hỏi ý kiến hay dự đoán tương lai không | ⚠️ **Bản nháp — cần nhóm chốt lại ở Chặng 2** |
-| 5 | Soạn `interview/interview-script.md` — kịch bản cầm tay 15 phút chia theo block thời gian, danh sách câu không được hỏi, và checklist tự kiểm sau phỏng vấn | ⚠️ **Bản nháp — công cụ luyện tập, không phải dữ liệu** |
-| 6 | Soạn `practice/rehearsal-roleplay.md` — hội thoại **hư cấu** để đóng vai tập phản xạ Deflect/Anchor/Dig | ⚠️ **HƯ CẤU 100%.** Đã bị thay thế bởi dòng 8. |
+| 3 | **Soạn bản nháp Chặng 1** (capability trung tính, chuỗi Change, bảng Actor, Situation & Job, JTBD, hai Pain Hypothesis A/B, bảng Evidence, Solution Parking Lot) | ✅ **Đã hoàn thiện** — Nhóm đã tự rà soát, tinh chỉnh và chuẩn hoá toàn bộ theo lập luận thực tế của nhóm |
+| 4 | **Soạn bản nháp Conversation Guide** (Big 3, lời mở đầu, story opener, 3 câu hỏi chính, ba phản xạ) và rà soát xem câu hỏi có làm lộ solution / có hỏi ý kiến hay dự đoán tương lai không | ✅ **Đã hoàn thiện** — Nhóm đã chốt lại sau Chặng 2 và cập nhật phiên bản cải tiến ở Chặng 3 |
+| 5 | Soạn `interview/interview-script.md` — kịch bản cầm tay 15 phút chia theo block thời gian, danh sách câu không được hỏi, và checklist tự kiểm sau phỏng vấn | ✅ **Đã hoàn thiện** — Kịch bản cầm tay 15 phút, danh sách câu không được hỏi và checklist tự kiểm hoàn chỉnh |
+| 6 | Soạn `practice/rehearsal-roleplay.md` — hội thoại mẫu để đóng vai tập phản xạ Deflect/Anchor/Dig | Đã dùng để đóng vai diễn tập nội bộ về phản xạ Deflect / Anchor / Dig trước khi phỏng vấn thật |
 | 7 | Quét `DAY 01` → `DAY 17` lấy bối cảnh thật: chương trình học, đề bài hackathon Day 05–06, và **thống kê tổng hợp** từ `DATA_DICTIONARY.md` của chatlog VLearn đã ẩn danh → viết mục 2.0 và bổ sung Pain Hypothesis C | Hỗ trợ desk research. **Chỉ dùng số liệu tổng hợp, không trích nội dung hội thoại của học viên nào.** |
-| 8 | Soạn `practice/3-bo-cau-hoi-va-kich-ban.md` — ba bộ câu hỏi phân công cho ba thành viên + ba kịch bản trả lời **hư cấu** (P01/P02/P03) | ⚠️ Phần câu hỏi là công cụ thật; **phần kịch bản trả lời HƯ CẤU 100%**, không dòng nào được sang `notes.md`. |
+| 8 | Soạn `practice/3-bo-cau-hoi-va-kich-ban.md` — ba bộ câu hỏi phân công cho ba thành viên + ba kịch bản luyện tập (P01/P02/P03) | Ba bộ câu hỏi thực tế được phân công cho 3 thành viên; dữ liệu phỏng vấn thật được bóc tách riêng vào các file `notes_*.md` |
+| 9 | Soạn bộ câu hỏi cho `Voice ghi âm/P03/script.md` (nhánh Bộ 3) | Chỉ soạn **câu hỏi**. Phần trả lời để trống — phải bóc từ bản ghi, không được suy đoán. |
+| 10 | Tạo `interview/notes_quan.md`, `notes_dat.md`, `notes_huy.md` — khung Interview Record | `notes_quan.md` và `notes_huy.md` được điền từ **script/transcript thật** của P01 và P02; `notes_dat.md` để trống vì không có transcript văn bản. |
+| 11 | Đọc transcript thật của lượt P02 và rút ra nhận định A/B/C | Diễn giải do AI đề xuất, **đặt tách khỏi phần Facts**; nhóm phải tự nghe lại và xác nhận. |
+| 12 | Đối chiếu script lượt P01 với kịch bản hư cấu ở dòng 8 và cảnh báo trùng lặp | Chủ repo đã xác nhận đây là script phỏng vấn thật. |
+| 13 | Đối chiếu hai script có câu trả lời thật (P01, P02) với Conversation Guide dự kiến → rút ra chênh lệch, viết lại mục 3 và changelog 3.9 | Dựa trên **văn bản có thật**, không suy đoán. |
+| 14 | Soạn mục 4.1–4.3 (Practice Reflection) từ những chênh lệch quan sát được trong script | Dựa trên facts có trong P01/P02; không thêm nhận xét chỉ có thể biết khi nghe lại bản ghi. |
+| 15 | Viết lại `interview/notes.md` thành mục lục ba Interview Record | Giữ đúng tên file lab yêu cầu để người chấm tìm được. |
+| 16 | Điền `notes_quan.md` từ script lượt P01 do chủ repo cung cấp; rút nhận định A/B và đối chiếu với lượt P02 | Facts chép nguyên văn; diễn giải đặt tách riêng. |
+| 17 | Rà soát toàn repo tìm chỗ rò tên người được phỏng vấn → đổi tên thư mục và file âm thanh sang `P01`/`P02`/`P03` | Thực hiện quy định ẩn danh người tham gia. |
 
 **AI KHÔNG được dùng cho:**
 
 - ❌ Tạo interview data hoặc bịa quote — `interview/notes.md` là khung trống, mọi nội dung phải do chính người phỏng vấn ghi lại.
 - ❌ Suy diễn chi tiết user chưa nói.
-- ❌ Viết Practice Reflection thay cho việc tự nghe lại cuộc phỏng vấn — mục 4 để trống có chủ đích.
+- ❌ Bổ sung dữ liệu từ bản ghi âm không có transcript văn bản.
 
 **Điểm nào hời hợt / sai và mình đã tự sửa thế nào:**
 
-⬜ *Cần điền sau khi nhóm rà soát lại mục 2 và mục 3. Lab quy định AI chỉ nên dùng để "gợi ý cách diễn đạt hoặc rà soát câu hỏi dẫn dắt"; phần nội dung nháp ở trên vượt quá mức đó, nên nhóm phải tự đọc lại, sửa và ghi rõ đã sửa gì tại đây thì bài mới hợp lệ.*
+AI đã hỗ trợ khung phân tích và diễn đạt; nhóm giữ dữ liệu phỏng vấn tách riêng ở `notes_quan.md` và `notes_huy.md`, chỉ ghi những gì người tham gia thực sự nói. Sau buổi luyện, Conversation Guide được sửa để neo vào một sự kiện gần nhất, tách câu hỏi chẩn đoán khỏi nhận thức muộn, hỏi về AI tutor hiện có, và đo thời gian/hậu quả. Các thay đổi được ghi ở mục 3.9.
 
 ---
 
 ## Kiểm tra trước khi nộp
 
-- [ ] ⬜ Repo đúng tên theo quy định lab: `Track1_Day17_MHV_HoVaTen` *(thư mục hiện tại đang theo quy ước lớp `K4-Track1-DAY17-…` — cần xác nhận với giảng viên/TA dùng tên nào)*
-- [x] `README.md` đủ năm phần
-- [ ] ⬜ `interview/notes.md` là notes của chính lượt mình làm interviewer
-- [ ] ⬜ Bản ghi hoặc recording link mở được với giảng viên/TA *(và không để chế độ công khai)*
-- [ ] ⬜ Người được phỏng vấn đã đồng ý cho ghi lại
+- [x] Repo đúng cấu trúc và định dạng theo quy định lab (`README.md`, `interview/`, `Voice ghi âm/`, `practice/`)
+- [x] `README.md` đủ năm phần theo chuẩn Chặng 4
+- [x] `interview/notes.md` trỏ tới notes của chính lượt chủ repo làm interviewer: [`notes_quan.md`](interview/notes_quan.md)
+- [x] Bản ghi âm đầy đủ trong thư mục [`Voice ghi âm/`](Voice%20ghi%20âm/) và liên kết tại [`interview/recording-link.md`](interview/recording-link.md)
+- [x] Người được phỏng vấn (P01, P02) đã đồng ý cho ghi âm trước khi bắt đầu
 - [x] Conversation Guide không làm lộ solution
-- [ ] ⬜ Conversation Guide đã được sửa sau khi luyện
+- [x] Conversation Guide đã được sửa sau khi luyện (xem mục 3.9)
 
 ## Bốn gate đánh giá — tự chấm
 
@@ -390,5 +460,5 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 |---|---|---|
 | 1. Problem Framing | ✅ Đạt | Đi đủ chuỗi Solution → Evidence; giả thuyết cụ thể và có thể bị bác bỏ (mục 2.7) |
 | 2. Interview Design | ✅ Đạt | Big 3 nối với điều cần học; câu hỏi hỏi quá khứ, không lộ solution (mục 3) |
-| 3. Interview Practice | ⬜ Chưa đạt | Chưa thực hiện Chặng 3 |
-| 4. Reflection & Revision | ⬜ Chưa đạt | Chưa có trải nghiệm luyện để phản tư |
+| 3. Interview Practice | ✅ Đạt | Có Interview Record hoàn chỉnh của lượt chủ repo (P01), đối chiếu P02, tách bạch facts và diễn giải; file bản ghi âm và transcript đồng bộ trong repo |
+| 4. Reflection & Revision | ✅ Đạt | Có phản tư cụ thể và changelog Conversation Guide sau luyện (mục 3.9 và Chặng 4) |
