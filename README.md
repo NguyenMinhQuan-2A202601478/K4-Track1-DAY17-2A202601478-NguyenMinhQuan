@@ -3,11 +3,6 @@
 Day 17 · Track 1 — Product Discovery: Finding and Validating Pain
 Lab: Reverse solution directive → problem hypothesis → problem interview theo The Mom Test
 
-> ✅ **Trạng thái:** Đã hoàn thiện toàn diện nội dung 5 phần theo chuẩn Chặng 4; đồng bộ dữ liệu với các Interview Record ([`notes_quan.md`](interview/notes_quan.md), [`notes_huy.md`](interview/notes_huy.md), [`notes_dat.md`](interview/notes_dat.md)) và các bản ghi âm tại `Voice ghi âm/`. Đã sẵn sàng nộp bài.
->
-> 💡 **Tín hiệu phát hiện từ Chặng 3 — phân hoá giữa giả thuyết A và B:** Buổi phỏng vấn chính `P01` cho thấy học viên gặp khó khăn trong việc định vị phần nền (*"không biết hổng chỗ nào để đi vá"* — phù hợp **Hypothesis A**); trong khi buổi đối chiếu `P02` ghi nhận rào cản chi phí gián đoạn (*"cố gắng tìm hiểu thì sẽ bỏ lỡ bài sau"* — nghiêng về **Hypothesis B**). Nhóm giữ nguyên cả hai dữ liệu thực tế để đối chiếu và không làm tròn kết quả.
-
----
 
 ## 1. Thông tin cá nhân và nhóm
 
@@ -24,11 +19,11 @@ Lab: Reverse solution directive → problem hypothesis → problem interview the
 
 | Interviewer | Mã người tham gia | Nhánh điều tra | Ngày giờ | Interview Record |
 |---|---|---|---|---|
-| Nguyễn Minh Quân | `P01` | Bộ 1 — A vs B | 13:02 · 17/08 | [`P01.m4a`](Voice%20ghi%20âm/P01/P01.m4a) |
-| Vũ Đình Huy | `P02` | Bộ 2 — AI tutor có sẵn | 12h50 · 17/08 | [`P02.m4a`](Voice%20ghi%20âm/P02/P02.m4a) |
-| Đào Văn Đạt | `P03` | Bộ 3 — consequence | 13h15 · 17/08 | [`P03.m4a`](Voice%20ghi%20âm/P03/P03.m4a) |
+| Nguyễn Minh Quân | `2A202601478` | Bộ 1 — A vs B | 13:02 · 17/08 | [`P01.m4a`](Voice%20ghi%20âm/P01/P01.m4a) |
+| Vũ Đình Huy | `2A202601200` | Bộ 2 — AI tutor có sẵn | 12h50 · 17/08 | [`P02.m4a`](Voice%20ghi%20âm/P02/P02.m4a) |
+| Đào Văn Đạt | `2A202601901` | Bộ 3 — consequence | 13h15 · 17/08 | [`P03.m4a`](Voice%20ghi%20âm/P03/P03.m4a) |
 
-> 🔒 Người được phỏng vấn chỉ ghi bằng **mã ẩn danh** `P01`/`P02`/`P03`, không ghi họ tên hay MHV ở bất kỳ đâu trong repo.
+
 
 ### Solution directive nguyên văn (Case A)
 
@@ -256,17 +251,6 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 | 6 | Hiển thị "nhiều học viên cũng dừng ở đoạn này" + link bài nền mà họ đã quay lại | Không dùng AI *(thống kê)* |
 | 7 | AI Chat trả lời tự do tại chỗ, **không** có bước chẩn đoán | AI |
 
-> ✅ **CHECKPOINT 1 — Problem Hypothesis**
-> Đã đi đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence; có hai cách giải thích cạnh tranh (A/B) và nói rõ điều gì có thể làm giả thuyết được chọn trở nên sai.
-
----
-
-## 3. Conversation Guide — phiên bản cuối
-
-> ✅ **Đây là bản đã sửa sau Chặng 3** (17/08/2026), dựa trên chênh lệch giữa guide dự kiến và câu thực tế đã hỏi trong ba lượt phỏng vấn. Danh sách thay đổi ở [mục 3.9](#39-đã-sửa-gì-sau-khi-luyện--changelog).
->
-> 📄 Bản cầm tay: [`interview/interview-script.md`](interview/interview-script.md) — chia theo block thời gian, kèm danh sách câu không được hỏi và checklist tự kiểm.
-
 ### 3.1 Big 3 — ba điều quan trọng nhất cần học
 
 | # | Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết |
@@ -274,33 +258,6 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 | 1 | Việc mắc kẹt có thật và gần đây không — lúc đó chuyện gì thực sự xảy ra? | Một sự kiện cụ thể: tên bài, thời điểm, hành vi ngay sau đó | Không kể được lần nào cụ thể, chỉ nói chung chung |
 | 2 | **Lúc mắc kẹt, họ có tự chỉ ra được mình thiếu gì không?** *(câu "đáng sợ")* | Cách họ mô tả chỗ vướng — có nêu được khái niệm nền hay chỉ nói "khó quá" | Họ nêu chính xác và ngay lập tức → giả thuyết nghiêng sang **B** |
 | 3 | Họ đã làm gì và trả giá bao nhiêu? | Workaround cụ thể, công sức bỏ ra, hậu quả sau đó | Không làm gì và không hậu quả gì → pain không đủ ý nghĩa |
-
-*Điều "đáng sợ" là #2:* câu trả lời có thể lật giả thuyết A sang B và làm mất phần đắt nhất của solution directive.
-
-### 3.2 Tiêu chí tuyển người
-
-> Chúng tôi cần nói chuyện với người đã **học một bài học online và gặp một đoạn không hiểu** trong vòng **7** ngày gần đây.
-
-**Recruitment check** *(chỉ để tuyển đúng người, không tính là evidence chính)*:
-
-> "Trong 7 ngày gần đây, có lần nào bạn đang học một bài mà gặp một đoạn không hiểu không? Lần gần nhất là bài gì?"
-
-> 🔧 **Sửa sau luyện tập — bắt buộc có câu chốt.** Thực tế câu này ra câu chung chung (*"trước thì khá là thường xuyên…"*), không ra sự kiện. Nếu người trả lời nói kiểu "thường xuyên", hỏi ngay:
->
-> > "Lần gần nhất là bài nào? Hôm đó là thứ mấy?"
->
-> Chưa chốt được một bài và một mốc thời gian thì **chưa được đi tiếp**.
-
-### 3.3 Lời mở đầu
-
-> "Cảm ơn bạn dành thời gian. Mình đang tìm hiểu cách mọi người tự học online — cụ thể là những lúc đang học mà bị vướng. Mình muốn nghe **chuyện đã xảy ra thật** của bạn, chứ không hỏi ý kiến hay xin feedback về bất cứ thứ gì. Không có câu trả lời đúng hay sai, và bạn không cần chuẩn bị gì cả. Mình sẽ hỏi khoảng 15 phút.
-> Bạn cho phép mình **ghi âm** để nghe lại cho khỏi sót không? Bản ghi chỉ mình và nhóm mình dùng để học, không chia sẻ công khai."
-
-*Rà soát: không nhắc solution, không nói "bọn mình muốn xin feedback về tính năng".*
-
-### 3.4 Story opener
-
-> "Kể mình nghe về **lần gần nhất** bạn đang học một bài mà gặp một đoạn không hiểu — hôm đó là bài gì, và bạn đang làm gì lúc đó?"
 
 ### 3.5 Big 3 Questions
 
@@ -344,12 +301,10 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 - [x] Có ít nhất một câu có thể làm giả thuyết yếu đi — câu #2 có thể lật A sang B.
 - [x] Các Interview Record được dùng làm evidence (P01, P02) đều mô tả một sự kiện trong 7 ngày gần đây.
 - [x] Đã biết mình sẽ phỏng vấn ai — phân công ở [mục 1](#1-thông-tin-cá-nhân-và-nhóm).
-- [x] 🆕 Có câu chốt bắt buộc khi recruitment check ra câu chung chung.
-- [x] 🆕 Có câu tách chẩn đoán-thật khỏi khôn-sau (2b).
-- [x] 🆕 Có câu kiểm công cụ tại chỗ (2c).
+- [x]  Có câu chốt bắt buộc khi recruitment check ra câu chung chung.
+- [x]  Có câu tách chẩn đoán-thật khỏi khôn-sau (2b).
+- [x]  Có câu kiểm công cụ tại chỗ (2c).
 
-> ✅ **CHECKPOINT 2 — Interview-ready**
-> Guide bắt đầu từ một sự kiện gần đây; các câu hỏi chính nối trực tiếp với Big 3; probe bank đào hành vi–workaround–hậu quả; và không để lộ solution directive.
 
 ### 3.9 Đã sửa gì sau khi luyện — changelog
 
@@ -365,8 +320,6 @@ bôi đen + "giải thích đoạn này"  →  hỏi lại lượt 2, 3  →  Go
 ---
 
 ## 4. Practice Reflection — Chặng 4
-
-> 📝 **Ba câu dưới đây viết từ các script có nội dung trả lời của P01 và P02 ngày 17/08.** Nhận định luôn được tách khỏi facts; không dùng P03 vì chưa có transcript văn bản.
 
 ### 4.1 Câu hỏi nào đã giúp user kể một tình huống cụ thể?
 
@@ -400,11 +353,6 @@ Sáu thay đổi, ghi chi tiết ở [mục 3.9](#39-đã-sửa-gì-sau-khi-luy�
 | Thêm **câu về AI tutor có sẵn** | Không hỏi thì mặc định sai rằng học viên đang tay không, trong khi VLearn đã có tutor |
 
 **Điều quan trọng nhất buổi luyện mang lại là dữ liệu không đồng nhất:** P01 nghiêng về A, trong khi P02 cho thấy người học **biết rõ mình thiếu gì** và cái chặn họ là **chi phí gián đoạn** — cơ chế của B. Hai lượt ngắn chưa đủ để kết luận giả thuyết nào phổ biến hơn, nhưng đủ để nhóm không mặc định A là đúng.
-
-> ✅ **CHECKPOINT 3 — Practice documented (Đã hoàn thiện & Sẵn sàng nộp)**
-> Chủ repo đã hoàn thành đầy đủ Interview Record cho lượt mình làm interviewer trong [`interview/notes_quan.md`](interview/notes_quan.md); kèm Interview Record đối chiếu [`notes_huy.md`](interview/notes_huy.md) và ghi nhận minh bạch lượt [`notes_dat.md`](interview/notes_dat.md). Toàn bộ file bản ghi âm (`P01.m4a`, `P02.m4a`, `P03.m4a`) và script đã được lưu trữ, đồng bộ trong repo.
-
----
 
 ## 5. AI Support Log
 
@@ -446,10 +394,10 @@ AI đã hỗ trợ khung phân tích và diễn đạt; nhóm giữ dữ liệu 
 
 ## Kiểm tra trước khi nộp
 
-- [x] Repo đúng cấu trúc và định dạng theo quy định lab (`README.md`, `interview/`, `Voice ghi âm/`, `practice/`)
+- [x] Repo đúng cấu trúc và định dạng theo quy định lab (`README.md`, `interview/notes.md`, `interview/recording.mp4a`)
 - [x] `README.md` đủ năm phần theo chuẩn Chặng 4
-- [x] `interview/notes.md` trỏ tới notes của chính lượt chủ repo làm interviewer: [`notes_quan.md`](interview/notes_quan.md)
-- [x] Bản ghi âm đầy đủ trong thư mục [`Voice ghi âm/`](Voice%20ghi%20âm/) và liên kết tại [`interview/recording-link.md`](interview/recording-link.md)
+- [x] `interview/notes.md` trỏ tới notes của chính lượt chủ repo làm interviewer: [`notes.md`](interview/notes.md)
+- [x] Bản ghi âm đầy đủ trong thư mục [`Voice ghi âm/`](Voice%20ghi%20âm/)
 - [x] Người được phỏng vấn (P01, P02) đã đồng ý cho ghi âm trước khi bắt đầu
 - [x] Conversation Guide không làm lộ solution
 - [x] Conversation Guide đã được sửa sau khi luyện (xem mục 3.9)
@@ -458,7 +406,7 @@ AI đã hỗ trợ khung phân tích và diễn đạt; nhóm giữ dữ liệu 
 
 | Gate | Trạng thái | Ghi chú |
 |---|---|---|
-| 1. Problem Framing | ✅ Đạt | Đi đủ chuỗi Solution → Evidence; giả thuyết cụ thể và có thể bị bác bỏ (mục 2.7) |
-| 2. Interview Design | ✅ Đạt | Big 3 nối với điều cần học; câu hỏi hỏi quá khứ, không lộ solution (mục 3) |
-| 3. Interview Practice | ✅ Đạt | Có Interview Record hoàn chỉnh của lượt chủ repo (P01), đối chiếu P02, tách bạch facts và diễn giải; file bản ghi âm và transcript đồng bộ trong repo |
-| 4. Reflection & Revision | ✅ Đạt | Có phản tư cụ thể và changelog Conversation Guide sau luyện (mục 3.9 và Chặng 4) |
+| 1. Problem Framing | ✅ Đạt | Đi đủ chuỗi Solution → Evidence; giả thuyết cụ thể và có thể bị bác bỏ  |
+| 2. Interview Design | ✅ Đạt | Big 3 nối với điều cần học; câu hỏi hỏi quá khứ |
+| 3. Interview Practice | ✅ Đạt | Có Interview Record hoàn chỉnh của lượt chủ repo |
+| 4. Reflection & Revision | ✅ Đạt | Có phản tư cụ thể và changelog Conversation Guide sau luyện|

@@ -1,16 +1,11 @@
 # Interview Record — lượt Nguyễn Minh Quân làm interviewer
 
-> ✅ Đã thực hiện. Nội dung lấy từ `Voice ghi âm/P01/script.md`.
-> Phần **Facts** chỉ chép lại điều P01 đã thực sự nói. Phần **Đọc kết quả** là diễn giải của nhóm, để riêng.
-
----
-
 ## Thông tin buổi phỏng vấn
 
 | Mục | Nội dung |
 |---|---|
 | Interviewer | Nguyễn Minh Quân · 2A202601478 |
-| Mã người tham gia | `P01` |
+| Mã người tham gia | `2A202601478` |
 | Ngày / giờ | 13:02 · 17/08/2026 |
 | Hình thức | Trực tiếp |
 | Đúng tiêu chí tuyển | **Có** — có sự kiện cụ thể trong 7 ngày gần đây |
